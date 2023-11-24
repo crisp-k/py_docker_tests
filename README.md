@@ -1,3 +1,5 @@
-# py_docker_tests
+# py_docker_test
 
-Experimenting and exploring Docker using Python and Flask
+Experimenting and exploring Docker compose using Python and Flask
+
+From tutorial: https://docs.docker.com/compose/gettingstarted/
